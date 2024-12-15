@@ -1,1 +1,15 @@
-分步骤，按章节有序，高效的学习强化学习算法
+# 分步骤，按章节有序，高效的学习强化学习算法.
+
+part one -- Fundational tools
+|---chapter 1 basic concept
+|---chapter 2 Bellman Equation
+|___chapter 3 Bellman Optimality
+
+part two -- Algorithm/Methods
+|---chapter 4 Value iteration & Policy iteration
+|---chapter 5 Monte Carlo Learning
+|---chapter 6 Stochastic Approximation
+|---chapter 7 Temporal-Difference learning
+|---chapter 8 Value Function Approxiation
+|---chapter 9 Policy Function approximation(or policy gradient)
+|___chapter 10 Actor-Critic Methods
